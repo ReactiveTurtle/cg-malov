@@ -1,0 +1,152 @@
+[
+    {
+        "id": "fire",
+        "name": "Огонь",
+        "texture": "fire.png"
+    },
+    {
+        "id": "dirt",
+        "name": "Земля",
+        "texture": "dirt.png"
+    },
+    {
+        "id": "water",
+        "name": "Вода",
+        "texture": "water.png"
+    },
+    {
+        "id": "air",
+        "name": "Воздух",
+        "texture": "air.png"
+    },
+    {
+        "id": "steam",
+        "name": "Пар",
+        "texture": "steam.png"
+    },
+    {
+        "id": "lava",
+        "name": "Лава",
+        "texture": "lava.png"
+    },
+    {
+        "id": "dust",
+        "name": "Пыль",
+        "texture": "dust.png"
+    },
+    {
+        "id": "powder",
+        "name": "Порох",
+        "texture": "powder.png"
+    },
+    {
+        "id": "explosion",
+        "name": "Взрыв",
+        "texture": "explosion.png"
+    },
+    {
+        "id": "smoke",
+        "name": "Дым",
+        "texture": "smoke.png"
+    },
+    {
+        "id": "energy",
+        "name": "Энергия",
+        "texture": "energy.png"
+    },
+    {
+        "id": "stone",
+        "name": "Камень",
+        "texture": "stone.png"
+    },
+    {
+        "id": "storm",
+        "name": "Буря",
+        "texture": "storm.png"
+    },
+    {
+        "id": "metal",
+        "name": "Металл",
+        "texture": "metal.png"
+    },
+    {
+        "id": "electricity",
+        "name": "Электричество",
+        "texture": "electricity.png"
+    },
+    {
+        "id": "hydrogen",
+        "name": "Водород",
+        "texture": "hydrogen.png"
+    },
+    {
+        "id": "oxygen",
+        "name": "Кислород",
+        "texture": "oxygen.png"
+    },
+    {
+        "id": "ozone",
+        "name": "Озон",
+        "texture": "ozone.png"
+    },
+    {
+        "id": "mud",
+        "name": "Грязь",
+        "texture": "mud.png"
+    },
+    {
+        "id": "geyser",
+        "name": "Гейзер",
+        "texture": "geyser.png"
+    },
+    {
+        "id": "steam_boiler",
+        "name": "Паровой котёл",
+        "texture": "steam_boiler.png"
+    },
+    {
+        "id": "pressure",
+        "name": "Давление",
+        "texture": "pressure.png"
+    },
+    {
+        "id": "vulkan",
+        "name": "Вулкан",
+        "texture": "vulkan.png"
+    },
+    {
+        "id": "explosive_gas",
+        "name": "Гремучий газ",
+        "texture": "explosive_gas.png"
+    },
+    {
+        "id": "swamp",
+        "name": "Болото",
+        "texture": "swamp.png"
+    },
+    {
+        "id": "alcohol",
+        "name": "Спирт",
+        "texture": "alcohol.png"
+    },
+    {
+        "id": "molotov_cocktail",
+        "name": "Коктейль Молотова",
+        "texture": "molotov_cocktail.png"
+    },
+    {
+        "id": "life",
+        "name": "Жизнь",
+        "texture": "life.png"
+    },
+    {
+        "id": "bacteria",
+        "name": "Бактерии",
+        "texture": "bacteria.png"
+    },
+    {
+        "id": "vodka",
+        "name": "Водка",
+        "texture": "vodka.png"
+    }
+]

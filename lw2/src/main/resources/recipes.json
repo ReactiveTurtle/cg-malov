@@ -1,0 +1,191 @@
+[
+    {
+        "recipe": [
+            "fire",
+            "water"
+        ],
+        "result_element_id": "steam"
+    },
+    {
+        "recipe": [
+            "fire",
+            "dirt"
+        ],
+        "result_element_id": "lava"
+    },
+    {
+        "recipe": [
+            "air",
+            "dirt"
+        ],
+        "result_element_id": "dust"
+    },
+    {
+        "recipe": [
+            "fire",
+            "dust"
+        ],
+        "result_element_id": "powder"
+    },
+    {
+        "recipe": [
+            "fire",
+            "powder"
+        ],
+        "result_element_id": "explosion"
+    },
+    {
+        "recipe": [
+            "fire",
+            "powder"
+        ],
+        "result_element_id": "smoke"
+    },
+    {
+        "recipe": [
+            "air",
+            "fire"
+        ],
+        "result_element_id": "energy"
+    },
+    {
+        "recipe": [
+            "lava",
+            "water"
+        ],
+        "result_element_id": "steam"
+    },
+    {
+        "recipe": [
+            "lava",
+            "water"
+        ],
+        "result_element_id": "stone"
+    },
+    {
+        "recipe": [
+            "air",
+            "energy"
+        ],
+        "result_element_id": "storm"
+    },
+    {
+        "recipe": [
+            "fire",
+            "stone"
+        ],
+        "result_element_id": "metal"
+    },
+    {
+        "recipe": [
+            "metal",
+            "energy"
+        ],
+        "result_element_id": "electricity"
+    },
+    {
+        "recipe": [
+            "electricity",
+            "water"
+        ],
+        "result_element_id": "hydrogen"
+    },
+    {
+        "recipe": [
+            "electricity",
+            "water"
+        ],
+        "result_element_id": "oxygen"
+    },
+    {
+        "recipe": [
+            "electricity",
+            "oxygen"
+        ],
+        "result_element_id": "ozone"
+    },
+    {
+        "recipe": [
+            "dust",
+            "water"
+        ],
+        "result_element_id": "mud"
+    },
+    {
+        "recipe": [
+            "steam",
+            "dirt"
+        ],
+        "result_element_id": "geyser"
+    },
+    {
+        "recipe": [
+            "steam",
+            "metal"
+        ],
+        "result_element_id": "steam_boiler"
+    },
+    {
+        "recipe": [
+            "steam",
+            "steam_boiler"
+        ],
+        "result_element_id": "pressure"
+    },
+    {
+        "recipe": [
+            "lava",
+            "pressure"
+        ],
+        "result_element_id": "vulkan"
+    },
+    {
+        "recipe": [
+            "hydrogen",
+            "oxygen"
+        ],
+        "result_element_id": "explosive_gas"
+    },
+    {
+        "recipe": [
+            "water",
+            "dirt"
+        ],
+        "result_element_id": "swamp"
+    },
+    {
+        "recipe": [
+            "fire",
+            "water"
+        ],
+        "result_element_id": "alcohol"
+    },
+    {
+        "recipe": [
+            "alcohol",
+            "fire"
+        ],
+        "result_element_id": "molotov_cocktail"
+    },
+    {
+        "recipe": [
+            "swamp",
+            "energy"
+        ],
+        "result_element_id": "life"
+    },
+    {
+        "recipe": [
+            "life",
+            "swamp"
+        ],
+        "result_element_id": "bacteria"
+    },
+    {
+        "recipe": [
+            "alcohol",
+            "water"
+        ],
+        "result_element_id": "vodka"
+    }
+]
